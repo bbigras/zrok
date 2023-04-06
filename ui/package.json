@@ -22,6 +22,7 @@
     "react-sizeme": "^3.0.2",
     "react-sparklines": "^1.7.0",
     "styled-components": "^5.3.5",
+    "yaml": "^1.10.2",
     "yocto-queue": "^0.1.0",
     "zustand": "^3.7.2"
   },
