@@ -22,6 +22,7 @@
     "react-sizeme": "^3.0.2",
     "react-sparklines": "^1.7.0",
     "styled-components": "^5.3.5",
+    "xmlbuilder": "^11.0.1",
     "xtend": "^4.0.2",
     "yallist": "^4.0.0",
     "yaml": "^1.10.2",
